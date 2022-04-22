@@ -13,3 +13,5 @@
 - [ЛР.5.Основи функціонування MODBUS TCP/IP](lab5.md)
 - [ЛР.6.Використання шини MODBUS RTU та MODBUS TCP/IP для зв’язку SCADA програм з ПЛК](lab6.md)
 - [ЛР.7.Основи Ethernet та IP](lab7.md)
+
+Про лабораторний практикум можна почитати в [цій статті](http://dspace.nuft.edu.ua/bitstream/123456789/24684/1/tom22.pdf).
